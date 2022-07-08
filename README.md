@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rachel
+- ✨ Pretty much all my stuff happens in private repos so there's not much to look at here. 
+- 👀 You can read my research at redmonk.com/rstephens
